@@ -1,0 +1,6 @@
+go 1.21.3
+
+use (
+	"./Go: Orientação a Objetos/bank"
+	"./Go: a linguagem do Google/monitoring-status"
+)
